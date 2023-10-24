@@ -1,0 +1,6 @@
+# This repository has been created to contain the database used into the article "Stream Life Cycle Assessment model for aircraft preliminary design" by Pietro Vivalda and Marco Fioriti
+
+# The database has been created as a table where every component modeled is provided into the first column while the second and thid columns contains information about the functional unit of every component
+# From the fourth column on data about the impact of every single component over different impact categories, specified into the first row, are provided
+# The intention of the authors it to give the opportunity to every reader of the article to use the database, or part of it, into his/her own work
+# The reader has the complete licence by the authors to modify and implement the database at his/her will
